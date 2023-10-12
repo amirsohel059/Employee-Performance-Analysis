@@ -3,7 +3,7 @@
 This project aims to predict employee performance based on various factors such as Employee Environment Satisfaction, Employee Last Salary Hike Percent, and Employee Work Life Balance. The analysis involves exploratory data analysis, model creation, and hyperparameter tuning.
 
 ## Table of Contents
-- [Introduction](#[introduction](https://github.com/amirsohel059/Rice-leaf-disease-prediction-using-CNN/blob/main/Rice%20Leaf%20Disease%20predition2-Copy1.ipynb))
+- [Introduction](#introduction)
 - [Data Overview](#data-overview)
 - [Top Factors Affecting Employee Performance](#top-factors-affecting-employee-performance)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
